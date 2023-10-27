@@ -4,8 +4,10 @@ function myFunction() {
     pinkman.classList.toggle("mystyle");
  }
 
-
-
+//extra stups
+for (let i=0;i<54;i++){
+    console.log(i)
+}
 
 
 
